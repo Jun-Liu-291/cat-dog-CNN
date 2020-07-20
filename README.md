@@ -3,7 +3,7 @@ Try to build a simple CNN model to classify cats and dogs
 
 ## Introduction
 
-Build 4-layers and 5-layers CNN model with fully connected layers to practice on tuning hyperparameters, which are learning rate, batch size, and dropout rate
+Build 4-layers and 5-layers CNN model with fully connected layers based on Keras to practice on tuning hyperparameters, which are learning rate, batch size, and dropout rate
 
 ### cat&dog-v1.ipython 
   training a 4-layers Conv2D model with 0.5 dropout rate. finally get the 83% accuracy in validation set.<br>
@@ -27,10 +27,10 @@ Build 4-layers and 5-layers CNN model with fully connected layers to practice on
   apply trainsfer learning to cats&dogs small dataset
   
 ### cat&dog-v8-f.ipynb
-  train a 6-layers-CNN model with 2 fully connected layers with 1024 parameters on original cats&dogs dataset with 20000 images in training set, finally got 96% accuracy on test set
+  train a 6-layers-CNN model with 2 fully connected layers with 1024 parameters on original cats&dogs dataset with 20000 images in training set, finally got 96% accuracy on test set. cats&dogs_1.h5 is the final model.
   
 ### cat&dog-v9-f.ipynb
-  train a 5-layers-CNN model with 2 fully connected layers with 1024 parameters on original cats&dogs dataset with 20000 images in training set, finally got 95.1% accuracy on test set
+  train a 5-layers-CNN model with 2 fully connected layers with 1024 parameters on original cats&dogs dataset with 20000 images in training set, finally got 95.1% accuracy on test set. cats&dogs_2.ho is the final model.
   
-
+## Summary
   
