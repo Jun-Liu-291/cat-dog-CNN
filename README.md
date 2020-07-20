@@ -27,10 +27,10 @@ Build 4-layers and 5-layers CNN model with fully connected layers based on Keras
   apply trainsfer learning to cats&dogs small dataset
   
 ### cat&dog-v8-f.ipynb
-  train a 6-layers-CNN model with 2 fully connected layers with 1024 parameters on original cats&dogs dataset with 20000 images in training set, finally got 96% accuracy on test set. cats&dogs_1.h5 is the final model.
+  train a 6-layers-CNN model with 2 fully connected layers with 1024 parameters on original cats&dogs dataset with 20000 images in training set, finally got 96% accuracy on test set. cats&dogs_1.h5 is the final model. You can download it with the following link: https://drive.google.com/file/d/1-KxvC99YYQzW32zw5jFvnwxXm7wRlz70/view?usp=sharing
   
 ### cat&dog-v9-f.ipynb
-  train a 5-layers-CNN model with 2 fully connected layers with 1024 parameters on original cats&dogs dataset with 20000 images in training set, finally got 95.1% accuracy on test set. cats&dogs_2.ho is the final model.
+  train a 5-layers-CNN model with 2 fully connected layers with 1024 parameters on original cats&dogs dataset with 20000 images in training set, finally got 95.1% accuracy on test set. cats&dogs_2.ho is the final model. You can download it with the following link: https://drive.google.com/file/d/10Ua3MD_cyClHHR18cb7o3Znhwh2R4v64/view?usp=sharing
   
 ## Summary
   
